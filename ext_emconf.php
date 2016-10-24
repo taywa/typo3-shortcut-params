@@ -1,6 +1,6 @@
 <?php
 
-$EM_CONF['shortcut_params'] = [
+$EM_CONF[$_EXTKEY] = [
     'title' => 'Shortcut Params',
     'description' => 'Add parameters to page shortcuts',
     'category' => 'frontend',
